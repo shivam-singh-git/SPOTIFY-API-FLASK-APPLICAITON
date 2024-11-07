@@ -83,8 +83,6 @@ If the artist is not found or any error occurs, the API will return a JSON objec
     "error": "Artist not found"
 }
 
-License
-This project is open-source and available under the MIT License.
 
 
 
